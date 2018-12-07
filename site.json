@@ -176,7 +176,7 @@
         },
         {
             "class": "福利大巴",
-            "tag": "bus",
+            "tag": "fa-bus",
             "istop": "true",
             "results": {
                 "site": [
