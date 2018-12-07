@@ -176,7 +176,7 @@
         },
         {
             "class": "福利大巴",
-            "tag": "fa-bus",
+            "tag": "linecons-fire",
             "istop": "true",
             "results": {
                 "site": [
