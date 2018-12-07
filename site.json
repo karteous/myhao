@@ -2,7 +2,7 @@
     "data": [
         {
             "class": "自建工具",
-            "tag": "navicon",
+            "tag": "fa-navicon",
             "istop": "true",
             "results": {
                 "site": [
@@ -53,7 +53,7 @@
         },
         {
             "class": "素材站点",
-            "tag": "linecons-lightbulb",
+            "tag": "fa-lightbulb-o",
             "istop": "false",
             "results": [
                 {
@@ -263,7 +263,7 @@
         },
         {
             "class": "在线工具",
-            "tag": "window-maximize",
+            "tag": "fa-cubes",
             "istop": "true",
             "results": {
                 "site": [
