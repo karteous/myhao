@@ -2,7 +2,7 @@
     "data": [
         {
             "class": "自建工具",
-            "tag": "fa-navicon",
+            "tag": "linecons-star",
             "istop": "true",
             "results": {
                 "site": [
@@ -263,7 +263,7 @@
         },
         {
             "class": "在线工具",
-            "tag": "fa-cubes",
+            "tag": "linecons-graduation-cap",
             "istop": "true",
             "results": {
                 "site": [
