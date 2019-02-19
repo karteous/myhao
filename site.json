@@ -9,7 +9,7 @@
                     {
                         "title": "Onedrive网盘",
                         "url": "http://hols.ml/disk",
-                        "icon": " ",
+                        "icon": "",
                         "brief": ""
                     },
                     {
@@ -33,7 +33,7 @@
                     {
                         "title": "人人美剧",
                         "url": "http://hols.ml/video",
-                        "icon": "http://hols.ml/video/favicon.ico",
+                        "icon": "",
                         "brief": ""
                     },
                     {
