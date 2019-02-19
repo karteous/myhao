@@ -9,7 +9,7 @@
                     {
                         "title": "Onedrive网盘",
                         "url": "http://hols.ml/disk",
-                        "icon": "",
+                        "icon": "data:image/svg+xml,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;&lt;rect fill=&quot;#9C27B0&quot; x=&quot;0&quot; y=&quot;0&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;/rect&gt;&lt;text fill=&quot;#FFF&quot; x=&quot;50%&quot; y=&quot;50%&quot; text-anchor=&quot;middle&quot; alignment-baseline=&quot;central&quot; font-size=&quot;16&quot; font-family=&quot;Verdana, Geneva, sans-serif&quot;&gt;Hanks&lt;/text&gt;&lt;/svg&gt;",
                         "brief": ""
                     },
                     {
