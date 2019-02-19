@@ -3,7 +3,7 @@
         {
             "class": "自建工具",
             "tag": "linecons-star",
-            "istop": "true",
+            "level": "1",
             "site": [
                 {
                     "title": "Onedrive网盘",
@@ -52,11 +52,11 @@
         {
             "class": "素材站点",
             "tag": "linecons-lightbulb",
-            "istop": "true"
+            "level": "2"
         },
         {
             "class": "个人常用",
-            "istop": "false",
+            "level": "3",
             "site": [
                 {
                     "title": "包图网",
@@ -86,7 +86,7 @@
         },
         {
             "class": "配色创意",
-            "istop": "false",
+            "level": "3",
             "site": [
                 {
                     "title": "flatuicolors",
@@ -104,7 +104,7 @@
         },
         {
             "class": "图片素材",
-            "istop": "false",
+            "level": "3",
             "site": [
                 {
                     "title": "摄图网",
@@ -128,7 +128,7 @@
         },
         {
             "class": "免费版权素材",
-            "istop": "false",
+            "level": "3",
             "site": [
                 {
                     "title": "pixabay",
@@ -183,7 +183,7 @@
         {
             "class": "福利大巴",
             "tag": "linecons-fire",
-            "istop": "true",
+            "level": "1",
             "site": [
                 {
                     "title": "福利吧",
@@ -268,7 +268,7 @@
         {
             "class": "在线工具",
             "tag": "linecons-graduation-cap",
-            "istop": "true",
+            "level": "1",
             "site": [
                 {
                     "title": "开源中国",
