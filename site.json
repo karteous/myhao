@@ -74,8 +74,14 @@
                         {
                             "title": "稿定设计",
                             "url": "https://www.gaoding.com/",
-                            "icon": "https://www.gaoding.com//favicon.ico",
+                            "icon": "https://www.gaoding.com/favicon.ico",
                             "brief": "稿定设计是一款专为淘宝店主、新媒体运营人员和修图爱好者打造的免费在线抠图工具，无需进行复杂的操作，通过简单拖拽，就能完成产品抠图、淘宝抠图、证件照抠图换背景、抠商品图/淘宝主图的设计。"
+                        },
+                        {
+                            "title": "阿里巴巴矢量图标库",
+                            "url": "https://www.iconfont.cn/",
+                            "icon": "https://gtms04.alicdn.com/tps/i4/TB1_oz6GVXXXXaFXpXXJDFnIXXX-64-64.ico",
+                            "brief": "Iconfont-国内功能很强大且图标内容很丰富的矢量图标库，提供矢量图标下载、在线存储、格式转换等功能。阿里巴巴体验团队倾力打造，设计和前端开发的便捷工具"
                         }
                     ]
                 },
