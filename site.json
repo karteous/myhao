@@ -46,6 +46,12 @@
                     "url": "http://hols.ml/outwall",
                     "icon": "http://hols.ml/outwall/favicon.ico",
                     "brief": "墙外的世界更精彩！PHProxy，在线代理，ip加密，网页代理"
+                },
+                {
+                    "title": "抖音无水印解析",
+                    "url": "http://hols.ml/tiktok",
+                    "icon": "http://hols.ml/tiktok/favicon.ico",
+                    "brief": "支持抖音无水印解析下载。"
                 }
             ]
         },
